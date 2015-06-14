@@ -12,3 +12,7 @@ If there was some of good peoples knows some of place for developper to go or in
 
 Can you help me to make great travel?
 
+## Basic information of this travel
+
+* Day to arrive at Los Angels August 11st.
+* Day to leave from Seattle September 1st.
